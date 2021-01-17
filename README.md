@@ -5,6 +5,6 @@
 
 * npm i express socket.io
 
-nodemon server.js
+* nodemon server.js
 
 * multiple http://localhost:3000 :shipit:
